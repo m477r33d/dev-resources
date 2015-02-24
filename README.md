@@ -92,7 +92,7 @@ A collection of great development resources and tools. Most that we use, some th
 
 1. [WebFaction](http://webfaction.com)
 2. [Heroku](http://heroku.com)
-3. [Amazon Web Service](http://aws.amazon.com/)
+3. [Amazon Web Services](http://aws.amazon.com/)
 
 **Other Languages / Frameworks**
 
