@@ -20,6 +20,7 @@ A collection of great development resources and tools. Most that we use, some th
 1. [jQuery](http://jquery.com/)
 2. [LoDash](https://lodash.com/)
 3. [ReactJS](http://facebook.github.io/react/)  
+3. [Reveal.js](http://lab.hakim.se/reveal-js/#/)  
 
 **JavaScript Frameworks**
 
@@ -86,6 +87,12 @@ A collection of great development resources and tools. Most that we use, some th
 3. [Ansible](http://www.ansible.com/home)
 4. [Fig](http://www.fig.sh/)
 4. [MAMP Pro](http://www.mamp.info/en/)
+ 
+**Production Environments**
+
+1. [WebFaction](http://webfaction.com)
+2. [Heroku](http://heroku.com)
+3. [Amazon Web Service](http://aws.amazon.com/)
 
 **Other Languages / Frameworks**
 
