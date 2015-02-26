@@ -20,7 +20,8 @@ A collection of great development resources and tools. Most that we use, some th
 1. [jQuery](http://jquery.com/)
 2. [LoDash](https://lodash.com/)
 3. [ReactJS](http://facebook.github.io/react/)  
-3. [Reveal.js](http://lab.hakim.se/reveal-js/#/)  
+4. [Reveal.js](http://lab.hakim.se/reveal-js/#/)  
+5. [Modernizr](http://modernizr.com/)
 
 **JavaScript Frameworks**
 
@@ -28,6 +29,7 @@ A collection of great development resources and tools. Most that we use, some th
 2. [Ember](http://emberjs.com/)
 3. [Meteor](http://meteor.com/)
 4. [Polymer](https://www.polymer-project.org/)
+5. [Backbone](http://backbonejs.org/)
 
 **Module Loaders**
 
@@ -69,7 +71,8 @@ A collection of great development resources and tools. Most that we use, some th
 4. [Asana](https://app.asana.com/)
 5. [Code School](https://www.codeschool.com/)
 6. [Udemy](https://www.udemy.com/)
-6. [Mandrill](https://mandrill.com/)
+7. [Mandrill](https://mandrill.com/)
+8. [Treehouse](http://teamtreehouse.com/)
 
 **Applications**
 
